@@ -1,0 +1,8 @@
+{
+  "releaseType": "node",
+  "packages": {
+    ".": {
+      "releaseType": "node"
+    }
+  }
+}
